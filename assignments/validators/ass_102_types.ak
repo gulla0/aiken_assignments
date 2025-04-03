@@ -1,5 +1,4 @@
 use cardano/script_context.{Minting, ScriptContext}
-// use cardano/transaction.{OutputReference, Transaction, find_input, placeholder}
 use cardano/transaction.{OutputReference, Transaction, placeholder}
 use mocktail.{mock_utxo_ref}
 
